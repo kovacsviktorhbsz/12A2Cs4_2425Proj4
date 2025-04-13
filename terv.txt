@@ -1,0 +1,22 @@
+Restaurant
+	Food 
+		-fid, fname, category, cost, cuisine
+	Order
+		-oid, cid, fid, date, quantity 
+	Customer
+		-cid, cname, e-mail, phonenummer
+	?????????
+		-???, ???, ???, ???, ?
+
+
+
+
+
+	Food 
+		-fid, fname, category, cost, cuisine
+	Order
+		-oid, cid, fid, date, quantity 
+	Customer
+		-cid, cname, e-mail, phonenummer
+	Chefs
+		-chid, chname, e-mail, michelin-stars
